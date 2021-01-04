@@ -2,7 +2,7 @@
 
 # Description
 
-This plugin was developed to enable efficient bulk capture of coordinate geometry off survey diagrams. 
+This plugin was developed to enable efficient bulk capture of coordinate geometry of survey diagrams. 
 
 It caters for addition, modification and deletion of cadastral parcels.
 
