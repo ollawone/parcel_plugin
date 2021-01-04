@@ -133,7 +133,7 @@ class Manager(object):
                 'Error raised: %s.' % (str(e),))
 
     def get_schema(self, table_name, field_ignore):
-        """ Get information abot a specific table
+        """ Get information about a specific table
         @returns [<Field Name>, <Field Type>, <Nullable>] (list)
         """
         return [
